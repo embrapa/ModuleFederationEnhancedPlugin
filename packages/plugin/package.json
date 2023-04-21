@@ -1,6 +1,6 @@
 {
   "name": "@embrapa/module-federation-enhanced-plugin",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "author": "@embrapa",
   "description": "Add feature for improve load and offline management of remotes",
   "main": "ModuleFederationEnhancedPlugin.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:schirrel/ModuleFederationEnhancedPlugin.git"
+    "url": "git@github.com:embrapa/ModuleFederationEnhancedPlugin.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

@@ -1,13 +1,13 @@
 {
   "name": "@embrapa/module-federation-enhanced-plugin-helper",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "author": "@embrapa",
   "description": "A helper to dynamic load remotes and modules",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:schirrel/ModuleFederationEnhancedPlugin.git"
+    "url": "git@github.com:embrapa/ModuleFederationEnhancedPlugin.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
