@@ -1,7 +1,7 @@
 {
-  "name": "@schirrel/module-federation-enhanced-plugin-helper",
+  "name": "@embrapa/module-federation-enhanced-plugin-helper",
   "version": "2.0.2",
-  "author": "@schirrel",
+  "author": "@embrapa",
   "description": "A helper to dynamic load remotes and modules",
   "main": "index.js",
   "license": "MIT",

@@ -5,7 +5,7 @@ Utilities for dynamic load content for remotes, if you need to pre initialize it
 ## Install
 
 ```sh
-npm i @schirrel/module-federation-enhanced-plugin-helper
+npm i @embrapa/module-federation-enhanced-plugin-helper
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ npm i @schirrel/module-federation-enhanced-plugin-helper
 import {
   loadRemoteAndModules,
   getModule,
-} from "@schirrel/module-federation-enhanced-plugin-helper";
+} from "@embrapa/module-federation-enhanced-plugin-helper";
 
 loadRemoteAndModules();
 
